@@ -4,7 +4,11 @@ import { Routes, Route, useLocation } from "react-router-dom";
 import { AnimatePresence } from "framer-motion";
 
 import Home from "./Components/Home/Home";
-import Project from "./Components/Project/Project";
+import Project1 from "./Components/Project/Project-1";
+import Project2 from "./Components/Project/Project-2";
+import Project3 from "./Components/Project/Project-3";
+import Project4 from "./Components/Project/Project-4";
+import Project5 from "./Components/Project/Project-5";
 
 function App() {
   const location = useLocation();
@@ -32,7 +36,12 @@ function App() {
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.pathname}>
           <Route index element={<Home />} />
-          <Route path="/project" element={<Project />} />
+          <Route path="/project-1" element={<Project1 />} />
+          <Route path="/project-1" element={<Project2 />} />
+          <Route path="/project-1" element={<Project3 />} />
+          <Route path="/project-1" element={<Project4 />} />
+          <Route path="/project-1" element={<Project5 />} />
+
         </Routes>
       </AnimatePresence>
     </>

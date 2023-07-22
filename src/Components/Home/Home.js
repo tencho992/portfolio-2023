@@ -215,12 +215,12 @@ const Home = () => {
             </div>
             <div className="footer-col">
               <p>
-                prev SWE at <br /> Resilient Coders
+                prev Software Engineer <br /> Resilient Coders
               </p>
             </div>
             <div className="footer-col">
               <p>
-                prev bartender <br /> at barcelona
+                Bay State College <br /> 2010 - 2014 Boston, MA
               </p>
             </div>
           </motion.div>
@@ -230,7 +230,7 @@ const Home = () => {
       <div className="projects-nav">
         <div className="projects-nav-container">
           <div className="project-item">
-            <Link to="/project">
+            <Link to="/project-1">
               <div className="project-link">
                 <div className="project-l">
                   <div className="project-link-img">
@@ -252,7 +252,7 @@ const Home = () => {
           </div>
 
           <div className="project-item">
-            <Link to="/project">
+            <Link to="/project-2">
               <div className="project-link">
                 <div className="project-l">
                   <div className="project-link-img">
@@ -274,7 +274,7 @@ const Home = () => {
           </div>
 
           <div className="project-item">
-            <Link to="/project">
+            <Link to="/project-3">
               <div className="project-link">
                 <div className="project-l">
                   <div className="project-link-img">
@@ -296,7 +296,7 @@ const Home = () => {
           </div>
 
           <div className="project-item">
-            <Link to="/project">
+            <Link to="/project-4">
               <div className="project-link">
                 <div className="project-l">
                   <div className="project-link-img">
@@ -318,7 +318,7 @@ const Home = () => {
           </div>
 
           <div className="project-item">
-            <Link to="/project">
+            <Link to="/project-5">
               <div className="project-link">
                 <div className="project-l">
                   <div className="project-link-img">
