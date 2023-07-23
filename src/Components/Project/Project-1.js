@@ -97,16 +97,14 @@ const Project1 = () => {
             }}
           >
             <p>
-              <b>Techz USed</b>
+              <b>Tattoo Artist Portfolio</b>
             </p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
-              nobis itaque laboriosam! Temporibus esse eius iusto voluptatum
-              maiores at asperiores, quo quos omnis delectus cumque consequuntur
-              provident dolores minus tenetur quisquam rem odit. Aut unde velit
-              sint natus recusandae eos! Lorem ipsum dolor sit amet consectetur
-              adipisicing elit.
+              Created for TenCho Designs Client, Gabriela Salgado. 
+              This website serves as a portfolio for Gabriela where you can find her most recent works, 
+              read about Gabriela's journey and contact her.
             </p>
+            
           </motion.div>
         </div>
         <div className="footer">
@@ -156,18 +154,18 @@ const Project1 = () => {
             </div>
             <div className="footer-col">
               <p>
-                (category)
-                <br /> portfolio design
+                (hosted on)
+                <br /> Netlify
               </p>
             </div>
             <div className="footer-col">
               <p>
-                (squad) <br /> impressions io
+                Portfolio Design <br /> Front End Dev
               </p>
             </div>
             <div className="footer-col">
               <p>
-                (profile) <br /> front end dev
+                HTML CSS <br /> Javascript
               </p>
             </div>
           </motion.div>
