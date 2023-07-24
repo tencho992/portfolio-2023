@@ -5,9 +5,9 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import transition from "../../transition";
 
-import ProjectImg from "../../Images/project-1.png";
+import ProjectImg from "../../Images/project-5.png";
 
-const Project = () => {
+const Project5 = () => {
   return (
     <>
       <div className="bg"></div>
@@ -177,4 +177,4 @@ const Project = () => {
   );
 };
 
-export default transition(Project);
+export default transition(Project5);
