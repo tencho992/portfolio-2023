@@ -97,16 +97,18 @@ const Project2 = () => {
             }}
           >
             <p>
-              <b>impressions</b>
+              <b>Welcome to TibNation!</b>
             </p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
-              nobis itaque laboriosam! Temporibus esse eius iusto voluptatum
-              maiores at asperiores, quo quos omnis delectus cumque consequuntur
-              provident dolores minus tenetur quisquam rem odit. Aut unde velit
-              sint natus recusandae eos! Lorem ipsum dolor sit amet consectetur
-              adipisicing elit.
+             Users can sign up with their google accounts and access a personal profile 
+              page. Once authenticated the user can complete courses at their own pace, as well as 
+              leave comments on the course (reviews),
+              and update their user information. <b>Modules include:</b> Flash cards, Writing pad with a character 
+              reference for handwriting practice, a translator, a fun memory card game and a final quiz. These 
+              prompts allow the user to earn points as they proceed through the course. 
+              <br></br>visit: tibnation.onrender.com
             </p>
+            
           </motion.div>
         </div>
         <div className="footer">
@@ -156,18 +158,18 @@ const Project2 = () => {
             </div>
             <div className="footer-col">
               <p>
-                (category)
-                <br /> portfolio design
+                (hosted on)
+                <br /> render
               </p>
             </div>
             <div className="footer-col">
               <p>
-                (squad) <br /> impressions io
+                TibNation <br /> Full stack dev
               </p>
             </div>
             <div className="footer-col">
               <p>
-                (profile) <br /> front end dev
+                MongoDB, Google Cloud,  <br /> EJS, Express, Node.js
               </p>
             </div>
           </motion.div>
