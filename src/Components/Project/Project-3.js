@@ -97,15 +97,15 @@ const Project3 = () => {
             }}
           >
             <p>
-              <b>impressions</b>
+              <b>Community Catalyst</b>
             </p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
-              nobis itaque laboriosam! Temporibus esse eius iusto voluptatum
-              maiores at asperiores, quo quos omnis delectus cumque consequuntur
-              provident dolores minus tenetur quisquam rem odit. Aut unde velit
-              sint natus recusandae eos! Lorem ipsum dolor sit amet consectetur
-              adipisicing elit.
+              Our final group collaboration at Resilient Coders 2023A. 
+              This platform is meant to allow users to create events. With features like
+               time and location of event using Google maps. Users can also leave comments on each event. 
+              Each event has a button indicating that this user is attending the event. 
+              This allows the event creator/ admin to prepare accordingly. Any user that has been 
+              authenticated may create an event.
             </p>
           </motion.div>
         </div>
@@ -156,18 +156,18 @@ const Project3 = () => {
             </div>
             <div className="footer-col">
               <p>
-                (category)
-                <br /> portfolio design
+                (hosted on)
+                <br /> render
               </p>
             </div>
             <div className="footer-col">
               <p>
-                (squad) <br /> impressions io
+                Community-Catalyst <br /> DevOps Team
               </p>
             </div>
             <div className="footer-col">
               <p>
-                (profile) <br /> front end dev
+                MongoDB, EJS, <br /> Node.js, GitHub Projects
               </p>
             </div>
           </motion.div>
