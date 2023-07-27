@@ -97,15 +97,11 @@ const Project4 = () => {
             }}
           >
             <p>
-              <b>impressions</b>
+              <b>Morning Code Challenge</b>
             </p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
-              nobis itaque laboriosam! Temporibus esse eius iusto voluptatum
-              maiores at asperiores, quo quos omnis delectus cumque consequuntur
-              provident dolores minus tenetur quisquam rem odit. Aut unde velit
-              sint natus recusandae eos! Lorem ipsum dolor sit amet consectetur
-              adipisicing elit.
+              A fun slot machine game I coded in OOP. One of my earlier projects that helped me 
+              gain a better understanding of how to manipulate behavior using Javascript.
             </p>
           </motion.div>
         </div>
@@ -156,18 +152,18 @@ const Project4 = () => {
             </div>
             <div className="footer-col">
               <p>
-                (category)
-                <br /> portfolio design
+                (hosted on)
+                <br /> netlify
               </p>
             </div>
             <div className="footer-col">
               <p>
-                (squad) <br /> impressions io
+                Slot machine <br /> Morning Code Challenge
               </p>
             </div>
             <div className="footer-col">
               <p>
-                (profile) <br /> front end dev
+                HTML CSS <br /> JAVASCRIPT
               </p>
             </div>
           </motion.div>
