@@ -97,15 +97,10 @@ const Project5 = () => {
             }}
           >
             <p>
-              <b>Tech Used</b>
+              <b>Tic-Tac-Toe</b>
             </p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
-              nobis itaque laboriosam! Temporibus esse eius iusto voluptatum
-              maiores at asperiores, quo quos omnis delectus cumque consequuntur
-              provident dolores minus tenetur quisquam rem odit. Aut unde velit
-              sint natus recusandae eos! Lorem ipsum dolor sit amet consectetur
-              adipisicing elit.
+              A crowd classic. This simple game was created using Node List and OOP. Morning Code Challenge Resilient Coders 2023A. 
             </p>
           </motion.div>
         </div>
@@ -156,18 +151,18 @@ const Project5 = () => {
             </div>
             <div className="footer-col">
               <p>
-                (category)
-                <br /> portfolio design
+                (Hosted on)
+                <br /> Netlify
               </p>
             </div>
             <div className="footer-col">
               <p>
-                (squad) <br /> impressions io
+                 Tic-Tac-Toe <br /> Javascript
               </p>
             </div>
             <div className="footer-col">
               <p>
-                (profile) <br /> front end dev
+                HTML CSS <br /> JAVASCRIPT
               </p>
             </div>
           </motion.div>
